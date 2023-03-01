@@ -33,3 +33,28 @@ class Solution(object):
 **算法思路：**
 
 #### Leetcode 13 
+![Leetcode_13](./pic/Leetcode_13.png)
+
+**code：**
+```python
+class Solution(object):
+    def romanToInt(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        Roman_values = dict(I=1,V=5,X=10,L=50,C=100,D=500,M=1000)
+        last_value = 0
+        re = 0
+        for ch in s:
+            value = Roman_values[ch] 
+            re += value
+            if value > last_value:
+                re -= 2*last_value
+            last_value = value
+        return re
+```
+**算法思路：**
+
+#### Leetcode 66
+
