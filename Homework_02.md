@@ -57,4 +57,31 @@ class Solution(object):
 **算法思路：**
 
 #### Leetcode 66
+![Leetcode_66](./pic/Leetcode_66.png)
 
+**code:**
+```python
+class Solution(object):
+    def plusOne(self, digits):
+        """
+        :type digits: List[int]
+        :rtype: List[int]
+        """
+        flag = False
+        digits.reverse()
+        for i, d in enumerate(digits):
+            num = int(d)
+            if flag or i == 0:
+                num += 1
+            if num < 10:
+                digits[i] = num
+                flag = False
+            else:
+                digits[i] = 0
+                flag = True
+        if flag:
+            digits.append(1)
+        digits.reverse()
+        return digits
+```
+**算法思路：**
