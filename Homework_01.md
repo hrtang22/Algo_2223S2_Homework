@@ -8,7 +8,7 @@
 
 #### LeetCode 1
 
-![image-20230227222732747](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230227222732747.png)
+![Leetcode_01](./pic/Leetcode_01.png)
 
 **code：**
 
@@ -30,7 +30,7 @@ class Solution:
 
 #### LeetCode 69
 
-![image-20230227231605143](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230227231605143.png)
+![Leetcode_69](./pic/Leetcode_69.png)
 
 code:
 
@@ -63,7 +63,7 @@ class Solution:
 
 #### LeetCode 70
 
-![image-20230227232601035](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230227232601035.png)
+![Leetcode_70](./pic/Leetcode_70.png)
 
 ```python
 class Solution:
@@ -75,7 +75,7 @@ class Solution:
 
 直接带入斐波那契序列的通项公式，最后对于结果取整输出；
 
-![image-20230227232849431](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230227232849431.png)
+!![Leetcode_70](./pic/Leetcode_70(1).png)
 
 code:
 
