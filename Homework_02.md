@@ -9,8 +9,8 @@
 
 **code:**
 ```python
-class Solution(object):
-    def reverse(self, x):
+class Solution:
+     def reverse(self, x):
         """
         :type x: int
         :rtype: int
@@ -18,16 +18,26 @@ class Solution(object):
         str_x = str(x)
         if str_x[0] == '-':
             str_rev_x = '-' + str_x[1:][::-1]
-            if 2**31 < long(str_rev_x[1:]):
-                return 0
-            else:
+            if len(str(2**31)) > len(str_rev_x[1:]):
                 return int(str_rev_x)
+            elif len(str(2**31)) == len(str_rev_x[1:]):
+                if str(2**31) < str_rev_x[1:]:
+                    return 0
+                else:
+                    return int(str_rev_x)
+            else:
+                return 0
         else:
             str_rev_x = str_x[::-1]
-            if 2**31-1 < long(str_rev_x):
-                return 0
-            else:
+            if len(str(2**31-1)) > len(str_rev_x):
                 return int(str_rev_x)
+            elif len(str(2**31-1)) == len(str_rev_x):
+                if str(2**31) < str_rev_x:
+                    return 0
+                else:
+                    return int(str_rev_x)
+            else:
+                return 0          
 
 ```
 **算法思路：**
