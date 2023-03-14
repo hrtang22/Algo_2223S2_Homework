@@ -8,7 +8,7 @@
 
 #### LeetCode 16
 
-![image-20230314102904308](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230314102904308.png)
+![Leetcode_16](./pic/Leetcode_16.png)
 
 **code：**
 
@@ -46,7 +46,7 @@ class Solution:
 
 #### LeetCode 17
 
-![image-20230314110630084](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230314110630084.png)
+![Leetcode_17](./pic/Leetcode_17.png)
 
 **code:**
 
@@ -78,8 +78,7 @@ class Solution:
 
 #### LeetCode 19
 
-![image-20230314112705369](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230314112705369.png)
-
+![Leetcode_19](./pic/Leetcode_19.png)
 **code:**
 
 ```python
