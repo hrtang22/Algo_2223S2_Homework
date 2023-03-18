@@ -8,7 +8,7 @@
 
 #### LeetCode 56
 
-![Leetcode_56](./pic/Leetcode_2656.png)
+![Leetcode_56](./pic/Leetcode_56.png)
 
 **code：**
 
