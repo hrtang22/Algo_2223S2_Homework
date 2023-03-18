@@ -8,7 +8,7 @@
 
 #### LeetCode 56
 
-![image-20230318104659749](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230318104659749.png)
+![Leetcode_56](./pic/Leetcode_2656.png)
 
 **code：**
 
@@ -45,7 +45,7 @@ class Solution(object):
 
 #### LeetCode 148
 
-![image-20230318105958021](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230318105958021.png)
+![Leetcode_148](./pic/Leetcode_148.png)
 
 **code:**
 
@@ -86,7 +86,7 @@ class Solution(object):
 
 #### LeetCode 274
 
-![image-20230318111232426](C:\Users\Tinker\AppData\Roaming\Typora\typora-user-images\image-20230318111232426.png)
+![Leetcode_274](./pic/Leetcode_274.png)
 
 **code:**
 
