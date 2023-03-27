@@ -1,4 +1,4 @@
-## AIgo_Homework_03
+## Homework_03
 
 唐浩然 
 
@@ -8,7 +8,7 @@
 
 #### LeetCode 5
 
-![image-20230327211201927](C:\Users\Tinker\Desktop\23春季\算分\HW\pic\Leetcode_05.png)
+![LeetCode_05](./pic/Leetcode_05.png)
 
 **code：**
 
@@ -64,7 +64,7 @@ class Solution:
 
 #### LeetCode 64
 
-![image-20230327193445671](C:\Users\Tinker\Desktop\23春季\算分\HW\pic\Leetcode_64.png)
+![LeetCode_64](./pic/Leetcode_64.png)
 
 **code:**
 
@@ -106,8 +106,7 @@ $$
 
 #### LeetCode 120
 
-![image-20230327200754451](C:\Users\Tinker\Desktop\23春季\算分\HW\pic\Leetcode_120.png)
-
+![LeetCode_120](./pic/Leetcode_120.png)
 **code:**
 
 ```python
