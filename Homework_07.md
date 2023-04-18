@@ -8,7 +8,7 @@
 
 #### LeetCode 85
 
-![image-20230418113008145](C:\Users\Tinker\Desktop\23春季\算分\HW\pic\Leetcode_85.png)
+![LeetCode_85](.\pic\Leetcode_85.png)
 
 **code：**
 
@@ -55,7 +55,7 @@ class Solution(object):
 
 #### LeetCode 152
 
-![image-20230418102152512](C:\Users\Tinker\Desktop\23春季\算分\HW\pic\Leetcode_152.png)
+![LeetCode_152](.\pic\Leetcode_152.png)
 
 **code:**
 
