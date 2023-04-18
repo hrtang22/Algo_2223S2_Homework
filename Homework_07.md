@@ -7,8 +7,7 @@
 
 
 #### LeetCode 85
-
-![LeetCode_85](.\pic\Leetcode_85.png)
+![Leetcode_85](./pic/Leetcode_85.png)
 
 **code：**
 
@@ -55,7 +54,7 @@ class Solution(object):
 
 #### LeetCode 152
 
-![LeetCode_152](.\pic\Leetcode_152.png)
+![LeetCode_152](./pic/Leetcode_152.png)
 
 **code:**
 
