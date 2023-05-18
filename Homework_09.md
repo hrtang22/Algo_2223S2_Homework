@@ -67,6 +67,7 @@ class Solution(object):
 #### Leetcode 347
 
 ![Leetcode_347](./pic/Leetcode_347.png)
+
 **Code:**
 
 ```python
@@ -95,11 +96,13 @@ class Solution(object):
 
 ```
 
-**算法思路：**利用题目中对于无序性的要求，利用列表以出现次数为索引存储对应数字；
+**算法思路：** 
+利用题目中对于无序性的要求，利用列表以出现次数为索引存储对应数字；
 
 #### Leetcode 374
 
 ![Leetcode_374](./pic/Leetcode_374.png)
+
 **Code:**
 
 ```python
@@ -124,4 +127,5 @@ class Solution(object):
 
 ```
 
-**算法思路：**利用Guess（）函数返回值进行二分查找；
+**算法思路：** 
+利用Guess（）函数返回值进行二分查找；
