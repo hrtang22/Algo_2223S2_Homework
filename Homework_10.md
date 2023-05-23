@@ -8,7 +8,7 @@
 
 #### LeetCode 787
 
-![Leetcode_787](.\pic\Leetcode_787.png)
+![Leetcode_787](./pic/Leetcode_787.png)
 
 **code：**
 
@@ -37,7 +37,7 @@ class Solution:
 
 #### Leetcode 934
 
-![Leetcode_934](.\pic\Leetcode_934.png)
+![Leetcode_934](./pic/Leetcode_934.png)
 
 **code:**
 
@@ -90,7 +90,7 @@ class Solution:
 
 #### LeetCode 692
 
-![Leetcode](.\pic\Leetcode_692.png)
+![Leetcode](./pic/Leetcode_692.png)
 
 **code:**
 
