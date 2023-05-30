@@ -56,7 +56,7 @@ class Solution:
 
 #### Leetcode 847
 
-![Leetcode_847(./pic/Leetcode_847.png)
+![Leetcode_847](./pic/Leetcode_847.png)
 
 **code:**
 
